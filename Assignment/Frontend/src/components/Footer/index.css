@@ -1,0 +1,109 @@
+.footer-main-bg-container{
+    background-color: #000000;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.footer-bg-container{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.get-in-touch-card-section{
+    min-height: 100px;
+    width: 490px;
+    padding-left: 20px;
+    background-color: #323f4b;
+    display: flex;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.getInTouch-title{
+    color: #ffffff;
+    font-size: 17px;
+    font-family: Caveat;
+    font-weight: 500;
+    padding: 5px;
+}
+
+.emailInput{
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    height: 35px;
+    width: 170px;
+    border: none;
+    padding-left: 15px;
+    color: #5c5353;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.arrow-btn{
+    background-color: #f55f06;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    height: 36px;
+    width: 40px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.book-now-btn{
+    background-color: #f55f06;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    height: 35px;
+    width: 120px;
+    border: none;
+    border-radius: 18px;
+    margin-left: 18px;
+    cursor: pointer;
+    outline: none;
+}
+
+.footer-title{
+    color: #ffffff;
+    font-family: caveat;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.get-in-touch-decription{
+    color: #5a5656;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.hr-line{
+    color: #25282b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-bottom-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-media-icon{
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 13px;
+}

@@ -1,0 +1,51 @@
+.all-services-bg-container{
+    background-color: #ffffff;
+    height: auto;
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.all-services-heading{
+    color: #000000;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.all-services-description{
+    color: #444040e2;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.service-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.subCard-container{
+    width: 320px;
+    padding: 15px;
+    margin-left: 20px;
+}
+
+.service-icon{
+    font-size: 40px;
+}
+
+.service-title{
+    color: #000000;
+    font-size: 19px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.service-description{
+    color: #5a636c;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 500;
+}

@@ -1,0 +1,67 @@
+.customer-rating-main-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.customer-rating-heading{
+    color: #000000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.customer-rating-bg-container{
+    padding: 20px;
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 1px 2px 2px #323f4b;
+    overflow-x: scroll;
+}
+
+.customer-rating-card-section{
+    display: flex;
+    width: 370px;
+    margin-left: 27px;
+}
+
+.profile-name-section{
+    display: flex;
+    align-items: center;
+}
+
+.profile-logo{
+    height: 50px;
+    width: 50px;
+}
+
+.profile-name{
+    color: #000000;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.customer-rating-subcard{
+    margin-left: 20px;
+}
+
+.no-of-days{
+    color: #565353;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.customer-rating-description{
+    color: #2f2e2e;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+}
